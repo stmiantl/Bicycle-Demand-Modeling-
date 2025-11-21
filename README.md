@@ -18,7 +18,6 @@ This repository contains a complete, end-to-end supervised learning workflow for
   * `training_data.csv` — includes targets `casual`, `registered`, `count`
   * `test_data.csv` — same schema **without** targets (used to simulate inference)
 
-> Place the CSVs wherever you prefer and update paths in the notebook if needed.
 
 ---
 
